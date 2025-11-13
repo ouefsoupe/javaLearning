@@ -1,3 +1,1 @@
-hello mcp
-
-hello from mcp
+hello mcp\n\nhello from mcp\n\nThis is a Java learning repository with various coding exercises. The goal is to provide a hands-on learning experience for students interested in improving their Java programming skills.
