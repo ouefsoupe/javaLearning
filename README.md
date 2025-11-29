@@ -1,3 +1,1 @@
-hello mcp
-
-hello from mcp
+hello mcp\n\nhello from mcp\n\nThis is a repository for practicing Java programming. It contains a collection of small Java programs covering various topics such as strings, arrays, and logic. The goal is to provide a set of simple exercises for learning the Java language.
