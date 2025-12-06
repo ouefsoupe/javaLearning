@@ -1,3 +1,1 @@
-hello mcp
-
-hello from mcp
+hello mcp\n\nhello from mcp\n\nThis is a Java learning repository containing sample Java code. The goal is to practice Java programming concepts and build small projects.
