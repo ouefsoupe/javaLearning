@@ -1,1 +1,1 @@
-pritn(hello wolrd);
+print("hello world");
